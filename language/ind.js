@@ -128,8 +128,7 @@ ${a} ┣⊱ Nombre : ${pushname}${a}
  ${a}┣⊱ Rol : ${role}${a}
  ${a}┣⊱ Canal Mr.Pato: https://youtube.com/channel/UClsFXRmSwE3JAWAJMhSnwQQ
  ${a}┣⊱ Canal Andres: https://youtube.com/channel/UCVbV68Y057VNW31vPRiRiVA
- ${a}┣⊱*Grupo 1* :  https://chat.whatsapp.com/GUdiX6cuCE1I14hNTPzhae
- ${a}┣⊱*Grupo 2* : https://chat.whatsapp.com/JyD8Vj11LPu1TofWhWnYMA
+ ${a}┣⊱*Grupo 1* :  https://chat.whatsapp.com/GDByOx2r2394eqWlyvTlkj
  ${a}┣⊱ Registro de usuarios : ${_registered.length}${a}
      ┗━━━━━━━━━━━━━
  ──────────▄██▄▄
